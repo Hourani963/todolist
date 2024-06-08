@@ -14,6 +14,8 @@
 
 ## Data base
 > The application uses an H2 database, to connect to the db you can access to this endpint (http://localhost:8080/h2-console)
+- **JDBC URL** : `jdbc:h2:mem:todolist`
+- **name** : h2
 
 
 ![image](https://github.com/Hourani963/todolist/assets/81326209/95ffaf73-303f-4f84-a068-9eb8c9f70e9a)
