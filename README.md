@@ -1,5 +1,6 @@
 
 # This is a simple API for ToDoList project
+> Cross-Origin works with localhost:3000 server
 
 ## Requirements 
 - JDK 22 (https://www.oracle.com/fr/java/technologies/downloads/#jdk22-windows)
@@ -21,4 +22,3 @@
 ![image](https://github.com/Hourani963/todolist/assets/81326209/95ffaf73-303f-4f84-a068-9eb8c9f70e9a)
 
 
-> Cross-Origin works with localhost:3000 server
